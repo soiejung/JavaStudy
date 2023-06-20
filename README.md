@@ -1,2 +1,2 @@
-# Java_Spring
-Java와 Spring 공부
+# Java
+Java 개념, Spring 공부
